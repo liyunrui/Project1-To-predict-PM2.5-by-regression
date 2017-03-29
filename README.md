@@ -71,6 +71,7 @@ Dataset
 |id0| WIND_SPEED | 包含連續9小時的觀測值|
 |id0| WS_HR | 包含連續9小時的觀測值|
 
+- submit.csv:預測結果
 
 資料來源：https://inclass.kaggle.com/c/ml2017-hw1-pm2-5
 
